@@ -1,5 +1,7 @@
 # Get started
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adamchenwei/ioc-demo.svg)](https://greenkeeper.io/)
+
 yarn install
 
 yarn start
